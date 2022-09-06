@@ -4,3 +4,6 @@
 DEMO => ( Click Here ) </a></h1>
 
 <img src="all_min_projects_screenshots.png"/>
+
+<hr>
+<h6> Inspired by BradTraversy </h6>
